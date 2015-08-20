@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "strada": "via Chiesa",
+        "civico": 38,
+        "tipo": "original"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2115265130997,
+          45.558681753866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "strada": "via Chiesa",
+        "civico": 46,
+        "tipo": "update"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2120146751404,
+          45.558779411071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "strada": "via Chiesa",
+        "civico": 12,
+        "tipo": "eliminato"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2122828960419,
+          45.558910872425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "strada": "via Chiesa",
+        "civico": 32,
+        "tipo": "update"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2117249965668,
+          45.558978481001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 47,
+        "strada": "nd",
+        "civico": "nd",
+        "tipo": "new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2111510038376,
+          45.558835751689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "strada": "via Chiesa",
+        "civico": 12,
+        "tipo": "new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2123472690582,
+          45.558801947325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 52,
+        "strada": "nd",
+        "civico": "nd",
+        "tipo": "new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2120468616486,
+          45.559121209951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 62,
+        "strada": "nd",
+        "civico": "nd",
+        "tipo": "new"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2109632492065,
+          45.559245158481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 59,
+        "strada": "nd",
+        "civico": 15,
+        "tipo": "update"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2128783464432,
+          45.55920008632
+        ]
+      }
+    }
+  ]
+}
